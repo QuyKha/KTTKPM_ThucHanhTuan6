@@ -8,6 +8,7 @@ class SpringBootActiveMqApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
